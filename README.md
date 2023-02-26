@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Warblade Game](https://github.com/Nawo/Warblade_game)
 
-- - 🌱 I’m currently learning **Multithreading in C++**
+- 🌱 I’m currently learning **Multithreading in C++**
 
 - 📫 How to reach me **romug1337@gmail.com**
 
