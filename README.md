@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<h1 align="center">Hi there 👋, My name is Roman</h1>
 <h3 align="center">I'm junior C++ software developer</h3>
 
 - 🔭 I’m currently working on [Grep program](https://github.com/Nawo/NawoGrep)
 
-- 🌱 I’m currently learning **Multithreading in C++**
-
 - 👯 I’m looking to collaborate on [Tetris Game](https://github.com/Nawo/Tetris-game)
 
 - 🤝 I’m looking for help with [Warblade Game](https://github.com/Nawo/Warblade_game)
+
+- - 🌱 I’m currently learning **Multithreading in C++**
 
 - 📫 How to reach me **romug1337@gmail.com**
 
